@@ -62,3 +62,9 @@ margin-right: 30px;
 margin-top: 20px;
 margin-bottom: 20px;
 }
+
+.line{
+border-style: dashed;
+border-color: black;
+border-width: 2px;
+}
