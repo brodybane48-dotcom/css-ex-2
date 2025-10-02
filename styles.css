@@ -2,7 +2,10 @@
 border-style: solid;  
 padding-top: 10px;
 padding-left: 20px;
+margin-right: 500px;
+margin-top: 50px;
 background-color: rgb(65, 139, 213);
+border-radius: 20px;
 }
 
 .meal-course{
